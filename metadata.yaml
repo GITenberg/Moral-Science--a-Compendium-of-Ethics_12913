@@ -1,5 +1,8 @@
 _repo: Moral-Science--a-Compendium-of-Ethics_12913
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bain, Alexander
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4709
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Bain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12913#Moral-Science--a-Compendium-of-Ethics
 gutenberg_issued: '2004-07-15'
 gutenberg_type: Text
 identifiers:
